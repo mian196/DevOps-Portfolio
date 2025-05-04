@@ -1,15 +1,3 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 @codewithsadee
- */
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
-
 :root {
   /**
    * colors
@@ -1977,7 +1965,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .info-content .name {
-    white-space: nowrap;
+    white-space: normal;
     text-align: center;
   }
 
